@@ -1,0 +1,3 @@
+insert into student values(1,'suraj','java','Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible. ');
+insert into student values(2,'Gajanan','Haskell','Haskell is a general-purpose, statically typed, purely functional programming language with type inference and lazy evaluation. ');
+insert into student values(3,'Abhi','Python','Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Pythons design philosophy emphasizes code readability with its notable use of significant whitespace.');
